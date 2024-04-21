@@ -1,0 +1,9 @@
+---
+# We'll use defaults from the LLVM style
+BasedOnStyle: Google
+IndentWidth: 2
+---
+Language: Cpp
+ColumnLimit: 79
+ContinuationIndentWidth: 2
+...
